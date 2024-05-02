@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6838aaf57bb4a80479b9cdd6c9d91bd2
+timeCreated: 1486861068
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gameOverTxt: {fileID: 1000013382302250, guid: 7f7b6a845960e8f48944233c137f0c87,
+      type: 2}
+  - playAgainTxt: {fileID: 1000010622695406, guid: bbdb6a900734daa4994926acbfae9f5c,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
